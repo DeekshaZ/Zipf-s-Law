@@ -1,0 +1,4 @@
+Total Categories : 70
+Max Value        : 1364270000
+Top Category     : China
+Deviation        : 4.54%

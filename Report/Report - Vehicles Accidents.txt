@@ -1,0 +1,4 @@
+Total Categories : 16513
+Max Value        : 2239
+Top Category     : VOLVO 
+Deviation        : 101.27%

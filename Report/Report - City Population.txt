@@ -1,0 +1,4 @@
+Total Categories : 19507
+Max Value        : 8175133
+Top Category     : New York city
+Deviation        : 35.38%

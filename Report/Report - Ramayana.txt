@@ -1,0 +1,4 @@
+Total Categories : 8390
+Max Value        : 7128
+Top Category     : the
+Deviation        : 13.75%
